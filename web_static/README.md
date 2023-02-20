@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Umoh Andem** - [umohpyro](https://github.com/umohpyro)
+* **Roderick Meraner** - [roderick](https://github.com/RM075)
